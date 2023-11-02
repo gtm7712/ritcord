@@ -6,8 +6,8 @@
 - When we get the alert that @User has reached their milestone of 5 on the looserboard, we should first check their rank with /rank.
 - If their rank is still at milestone 5, we should now send out the warning that they are reaching the mute milestone.
 - Same for mute thresholds
-- [Warning template](./mod-templates#heads-up)
-- [Image mute template](./mod-templates#image-mute)
+- [Warning template](./mod-templates.md#heads-up)
+- [Image mute template](./mod-templates.md#image-mute)
 - Ideally we should also react to the original alert message that we receive with ✅, this way other team members can see that it has been dealt with at a glance.
 
 ## Dealing with Other Servers

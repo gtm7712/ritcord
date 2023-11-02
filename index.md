@@ -2,13 +2,13 @@
 
 ## Moderation
 
-- [Mod Expectations](./staff/mod-expectations)
-- [Admin Expectations](./staff/admin-expectations)
-- [Templates](./staff/mod-templates)
-- [Punishment Guide](./staff/punishment-guide)
-- [Dyno](./staff/dyno)
-- [Tickets](./staff/tickets)
-- [Additional Info](./staff/additional-info)
+- [Mod Expectations](./staff/mod-expectations.md)
+- [Admin Expectations](./staff/admin-expectations.md)
+- [Templates](./staff/mod-templates.md)
+- [Punishment Guide](./staff/punishment-guide.md)
+- [Dyno](./staff/dyno.md)
+- [Tickets](./staff/tickets.md)
+- [Additional Info](./staff/additional-info.md)
 
 ## Rules
 

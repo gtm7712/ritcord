@@ -38,13 +38,13 @@ Example:
 
 We currently give users a heads-up at 5 un-alt-texted images that image mutes will start at 10. We're committed to making the server inclusive and accessible.
 
-[Heads-Up Template](./mod-templates#heads-up)
+[Heads-Up Template](./mod-templates.md#heads-up)
 
 ### Image Mute
 
 Beginning at 10 un-alt-texted images, image mutes will be applied. See `/altrules` for the current forumla.
 
-[Image Mute Template](./mod-templates#image-mute)
+[Image Mute Template](./mod-templates.md#image-mute)
 
 ## Mutes
 
